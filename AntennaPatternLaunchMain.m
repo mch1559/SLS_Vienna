@@ -2,7 +2,7 @@
 % Wireless Network Research Department (WNRD) 
 % Sony China Research Lab. (SCRL)
 % Sony (China) Ltd.
-% July 7th 2016
+% July 7th 2016 test
 
 
 %% Main lunch function for antenna patterns
